@@ -1,0 +1,12 @@
+{
+  "name": "angularjs-template",
+  "version": "1.0.0",
+  "description": "Just a startup template for my projects",
+  "main": "app.js",
+  "repository" : "NAN",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seondizon",
+  "license": "ISC"
+}
